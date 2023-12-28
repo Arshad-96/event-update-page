@@ -1,0 +1,49 @@
+.header {
+  border: 2px solid black;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 17%,
+    rgba(98, 134, 171, 1) 42%,
+    rgba(220, 41, 41, 1) 73%,
+    rgba(108, 8, 12, 1) 100%
+  );
+  color: rgb(255, 255, 255);
+  border-radius: 50px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  box-shadow: 15px 13px 68px -15px rgba(0, 0, 0, 0.93);
+  -webkit-box-shadow: 15px 13px 68px -15px rgba(0, 0, 0, 0.93);
+  -moz-box-shadow: 15px 13px 68px -15px rgba(0, 0, 0, 0.93);
+}
+.image-box {
+  border: 0px solid black;
+  margin-top: 100px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(98, 134, 171, 0.7371148288416929) 0%,
+    rgba(141, 29, 71, 1) 0%,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(220, 41, 41, 1) 100%,
+    rgba(108, 8, 12, 1) 100%
+  );
+}
+.input-box {
+  border: 0px solid black;
+  font-family: "Sofia";
+  font-size: 22px;
+}
+.image {
+  width: 300px;
+  height: 200px;
+}
+/* .button1 {
+  border-radius: 8px;
+  margin-left: 10px;
+}
+.button {
+  margin-top: 10px;
+} */
